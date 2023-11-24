@@ -1,10 +1,5 @@
 body {
-
-}
-
-.principal{
-    background: #CCCCCC;
-    padding: 30px;
+    background: #CCCCCC
 }
 
 #banner {
